@@ -1,0 +1,8 @@
+elasticsearch
+aiohttp
+pyyaml
+Flask==2.2.3
+Werkzeug==2.2.2
+numpy==1.23.5
+pandas==1.5.3
+Flask-CORS==3.0.10

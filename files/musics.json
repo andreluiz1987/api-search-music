@@ -1,0 +1,128 @@
+[
+  {
+    "artist": "Ed Sheeran",
+    "song": "Perfect",
+    "photo_album": "https://akamai.sscdn.co/uploadfile/letras/albuns/9/6/e/4/567371488818731.jpg",
+    "text_field": "I found a love for me Darling, just dive right in and follow my lead I found a girl, beautiful and sweet I never knew you were the someone waiting for me 'Cause we were just kids when we fell in love Not knowing what it was I will not give you up this time Darling, just kiss me slow Your heart is all I own And in your eyes, you're holding mine Baby I'm, dancing in the dark With you between my arms Barefoot on the grass Listening to, our favorite song...",
+    "lyrics_sentiment_analysis": "feeling of love, admiration, and tenderness"
+  },
+  {
+    "artist": "Elvis Presley",
+    "song": "Can't Help Falling in Love",
+    "photo_album": "https://akamai.sscdn.co/uploadfile/letras/albuns/b/4/5/d/720021556314861.jpg",
+    "text_field": "Wise men say Only fools, only fools rush in Oh, but I, but I, I can't help falling in love with you Shall I stay? Would it be, would it be a sin? If I can't help falling in love with you Like a river flows Surely to the sea Darling, so it goes Some things, you know, are meant to be Take my hand Take my whole life too For I can't help falling in love with you For I can't help falling in love with you",
+    "lyrics_sentiment_analysis": "feeling of deep love, devotion, and inevitability of love"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "song": "Thinking Out Loud",
+    "photo_album": "https://akamai.sscdn.co/uploadfile/letras/albuns/e/1/c/b/467611549995568.jpg",
+    "text_field": "When your legs don't work like they used to before\nAnd I can't sweep you off of your feet\nWill your mouth still remember the taste of my love?\nWill your eyes still smile from your cheeks?\nAnd, darling, I will\nBe loving you 'til we're 70\nAnd, baby, my heart\nCould still fall as hard at 23\nAnd I'm thinking 'bout how\nPeople fall in love in mysterious ways\nMaybe just the touch of a hand\nWell, me, I fall in love with you every single day\nAnd I just wanna tell you I am\nSo, honey, now\nTake me into your loving arms\nKiss me under the light of a thousand stars\nPlace your head on my beating heart\nI'm   thinking out loud\nMaybe we found love right where we are",
+    "lyrics_sentiment_analysis": "positive, optimistic, enduring love"
+  },
+  {
+    "artist": "Jason Mraz",
+    "song": "I Won't Give Up",
+    "photo_album": "https://akamai.sscdn.co/uploadfile/letras/albuns/9/9/a/5/28142.jpg",
+    "text_field": "When I look into your eyes\nIt's like watching the night sky\nOr a beautiful sunrise\nWell, there's so much they hold\nAnd just like them old stars\nI see that you've come so far\nTo be right where you are\nHow old is your soul?\nWell, I won't give up on us\nEven if the skies get rough\nI'm giving you all my love\nI'm still looking up\nAnd when you're needing your space\nTo do some navigating\nI'll be here patiently waiting\nTo see what you find",
+    "lyrics_sentiment_analysis": "positive, hopeful, admiration, love, commitment"
+  },
+  {
+    "artist": "ABBA",
+    "song": "Dancing Queen",
+    "photo_album": "https://upload.wikimedia.org/wikipedia/pt/3/3a/ABBA_Arrival.jpg",
+    "text_field": "You can dance, you can jive\nHaving the time of your life\nOoh, see that girl, watch that scene\nDigging the dancing queen\nYou're a teaser, you turn them on\nLeave them burning and then you are gone\nLooking out for another, anyone will do\nYou're in the mood for a dance\nAnd when you get the chance\nYou are the dancing queen\nYoung and sweet, only seventeen\nDancing queen\nFeel the beat from the tambourine, oh, yeah\nYou can dance, you can jive\nHaving the time of your life\nOoh, see that girl, watch that scene\nDigging the dancing queen\nDigging the dancing queen",
+    "lyrics_sentiment_analysis": "positive, energetic, joy, freedom, excitement"
+  },
+  {
+    "artist": "Darius Rucker",
+    "song": "Wagon Wheel",
+    "photo_album": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3op539o_Ik9A-c6AZ4_b8o3hTj5VW9iVVqg&s",
+    "text_field": "Heading down south to the land of the pines\nI'm thumbing my way into North Caroline\nStaring up the road and pray to God, I see headlights\nI made it down the coast in seventeen hours\nPicking me a bouquet of dogwood flowers\nAnd I'm a-hopin' for raleigh, I can see my baby tonight\nSo rock me, momma, like a wagon wheel\nRock me, momma, any way you feel\nHey, momma, rock me\nRock me, momma, like the wind and the rain\nRock me, momma, like a south bound train\nHey, momma, rock me",
+    "lyrics_sentiment_analysis": "positive, adventurous, anticipation, reunion"
+  },
+  {
+    "artist": "Chris Stapleton",
+    "song": "Tennessee Whiskey",
+    "photo_album": "https://upload.wikimedia.org/wikipedia/pt/a/aa/Capa_de_Traveller.jpg",
+    "text_field": "Used to spend my nights out in a barroom Liquor was the only love I'd known But you rescued me from reachin' for the bottom And brought me back from bein' too far gone You're as smooth as Tennessee whiskey You're as sweet as strawberry wine You're as warm as a glass of brandy Honey, I stay stoned on your love all the time I would look for love in all the same old places I found the bottom of a bottle was always dry But when you poured out your heart, I didn't waste it 'Cause there's nothin' like your love to get me high",
+    "lyrics_sentiment_analysis": "feeling of gratitude, love, and redemption"
+  },
+  {
+    "artist": "Katy Perry",
+    "song": "Roar",
+    "photo_album": "https://universalmusic.vtexassets.com/arquivos/ids/182619-800-800?v=638228724306800000&width=800&height=800&aspect=true",
+    "text_field": "I used to bite my tongue and hold my breath\nScared to rock the boat and make a mess\nSo I sat quietly, agreed politely\nI guess that I forgot I had a choice\nI let you push me past the breaking point\nI stood for nothing, so I fell for everything\nYou held me down, but I got up (hey)\nAlready brushing off the dust\nYou hear my voice, you hear that sound\nLike thunder, gonna shake the ground\nYou held me down, but I got up (hey)\nGet ready 'cause I've had enough\nI see it all, I see it now",
+    "lyrics_sentiment_analysis": "positive, empowering, strength, determination, independence"
+  },
+  {
+    "artist": "Lady Gaga",
+    "song": "Bad Romance",
+    "photo_album": "https://upload.wikimedia.org/wikipedia/pt/thumb/0/01/The_Fame_Monster.jpg/220px-The_Fame_Monster.jpg",
+    "text_field": "I want your ugly, I want your disease I want your everything as long as it's free I want your love Love, love, love, I want your love (hey) I want your drama, the touch of your hand (hey) I want your leather-studded kiss in the sand I want your love Love, love, love, I want your love (love, love, love) (I want your love) You know that I want you And you know that I need you I want it bad, your bad romance",
+    "lyrics_sentiment_analysis": "obsessive, passionate, destructive, acceptance of flaws, desire for toxic love"
+  },
+  {
+    "artist": "Lady Gaga & Bradley Cooper",
+    "song": "Shallow",
+    "photo_album": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/A_Star_Is_Born_%282018_soundtrack%29.png/220px-A_Star_Is_Born_%282018_soundtrack%29.png",
+    "text_field": "Tell me somethin' girl Are you happy in this modern world? Or do you need more? Is there somethin' else you're searchin' for? I'm falling In all the good times I find myself longing for change And in the bad times I fear myself Tell me something boy Aren't you tired tryin' to fill that void? Or do you need more? Ain't it hard keeping it so hardcore? I'm off the deep end, watch as I dive in I'll never meet the ground Crash through the surface, where they can't hurt us We're far from the shallow now",
+    "lyrics_sentiment_analysis": "introspective, searching, vulnerability, longing for connection, emotional depth"
+  },
+  {
+    "artist": "Kenny Loggins",
+    "song": "Footloose",
+    "photo_album": "https://upload.wikimedia.org/wikipedia/en/4/44/Footloose_soundtrack_1984.jpg",
+    "text_field": "Been working so hard\nI'm punching my card\nEight hours, for what?\nOh, tell me what I got\nI've got this feeling\nThat time's just holding me down\nI'll hit the ceiling\nOr else I'll tear up this town\nSo now I gotta cut loose\nFootloose\nKick off the Sunday shoes\nPlease, Louise\nPull me off of my knees\nJack, get back\nCome on before we crack\nLose your blues\nEverybody cut footloose",
+    "lyrics_sentiment_analysis": "energetic, rebellious, liberation, fun, release of stress"
+  },
+  {
+    "artist": "Harry Styles",
+    "song": "As It Was",
+    "photo_album": "https://upload.wikimedia.org/wikipedia/en/d/d5/Harry_Styles_-_Harry%27s_House.png",
+    "text_field": "Holdin' me back\nGravity's holdin' me back\nI want you to hold out the palm of your hand\nWhy don't we leave it at that?\nNothin' to say\nWhen everything gets in the way\nSeems you cannot be replaced\nAnd I'm the one who will stay, oh\nIn this world, it's just us\nYou know it's not the same as it was\nIn this world, it's just us\nYou know it's not the same as it was\nAs it was, as it was\nYou know it's not the same",
+    "lyrics_sentiment_analysis": "melancholic, nostalgic, longing, change, emotional reflection"
+  },
+  {
+    "artist": "The Weeknd",
+    "song": "Blinding Lights",
+    "photo_album": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1x7oi9eFql3IlVnAIzGTwrlqC3F6hSRF2j-RIjy1LA6Tx-9DvcgeMQ1NLug&s",
+    "text_field": "I've been tryna call\nI've been on my own for long enough\nMaybe you can show me how to love, maybe\nI'm going through withdrawals\nYou don't even have to do too much\nYou can turn me on with just a touch, baby\nI look around and\nSin City's cold and empty (oh)\nNo one's around to judge me (oh)\nI can't see clearly when you're gone\nI said, ooh, I'm blinded by the lights\nNo, I can't sleep until I feel your touch\nI said, ooh, I'm drowning in the night\nOh, when I'm like this, you're the one I trust\n(Hey, hey, hey)",
+    "lyrics_sentiment_analysis": "loneliness, longing, desire, vulnerability, emotional dependency"
+  },
+  {
+    "artist": "The Weeknd",
+    "song": "Save Your Tears",
+    "photo_album": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+    "text_field": "I saw you dancing in a crowded room, uh\nYou look so happy when I'm not with you\nBut then you saw me, caught you by surprise\nA single teardrop falling from your eye\nI don't know why I run away\nI make you cry when I run away\nYou could've asked me why I broke your heart\nYou could've told me that you fell apart\nBut you walked past me like I wasn't there\nAnd just pretended like you didn't care\nI don't know why I run away\nI make you cry when I run away\nTake me back 'cause I wanna stay\nSave your tears for another\nSave your tears for another day",
+    "lyrics_sentiment_analysis": "regret, sorrow, emotional distance, heartache, longing for reconciliation"
+  },
+  {
+    "artist": "Metallica",
+    "song": "Nothing Else Matters",
+    "photo_album": "https://universalmusic.vtexassets.com/arquivos/ids/162180/cd-metallica-metallica-metallica-00731451002229-265100222.jpg?v=637310000581300000",
+    "text_field": "So close, no matter how far\nCouldn't be much more from the heart\nForever trusting who we are\nAnd nothing else matters\nNever opened myself this way\nLife is ours, we live it our way\nAll these words, I don't just say\nAnd nothing else matters\nTrust I seek and I find in you\nEvery day for us something new\nOpen mind for a different view\nAnd nothing else matters\nNever cared for what they do\nNever cared for what they know\nBut I know",
+    "lyrics_sentiment_analysis": "trust, love, introspection, independence, emotional vulnerability"
+  },
+  {
+    "artist": "Queen",
+    "song": "Bohemian Rhapsody",
+    "photo_album": "https://m.media-amazon.com/images/I/71eu02SZK1L._UF1000,1000_QL80_.jpg",
+    "text_field": "Is this the real life? Is this just fantasy?\nCaught in a landslide, no escape from reality\nOpen your eyes, look up to the skies and see\nI'm just a poor boy, I need no sympathy\nBecause I'm easy come, easy go\nLittle high, little low\nAny way the wind blows doesn't really matter to me, to me\nMama, just killed a man\nPut a gun against his head, pulled my trigger, now he's dead\nMama, life had just begun\nBut now I've gone and thrown it all away\nMama, ooh, didn't mean to make you cry\nIf I'm not back again this time tomorrow\nCarry on, carry on as if nothing really matters\nToo late, my time has come\nSends shivers down my spine, body's aching all the time\nGoodbye, everybody, I've got to go\nGotta leave you all behind and face the truth\nMama, ooh (any way the wind blows)\nI don't wanna die\nI sometimes wish I'd never been born at all",
+    "lyrics_sentiment_analysis": "existential crisis, guilt, regret, inner conflict, fate, emotional depth"
+  },
+  {
+    "artist": "Iron Maiden",
+    "song": "The Trooper",
+    "photo_album": "https://upload.wikimedia.org/wikipedia/pt/f/f7/Trooper.jpg",
+    "text_field": "You'll take my life, but I'll take yours too\nYou'll fire your musket, but I'll run you through\nSo when you're waiting for the next attack\nYou'd better stand, there's no turning back\nThe bugle sounds, the charge begins\nBut on this battlefield, no one wins\nThe smell of acrid smoke and horses' breath\nAs I plunge on into certain death\nThe horse, he sweats with fear, we break to run\nThe mighty roar of the Russian guns\nAnd as we race towards the human wall\nThe screams of pain as my comrades fall",
+    "lyrics_sentiment_analysis": "war, bravery, violence, fear, determination, sacrifice"
+  },
+  {
+    "artist": "Killswitch Engage",
+    "song": "The End of Heartache",
+    "photo_album": "https://akamai.sscdn.co/uploadfile/letras/albuns/c/f/a/3/9644.jpg",
+    "text_field": "Seek me, call me\nI'll be waiting\nSeek me, call me\nI'll be waiting\nThis distance, this dissolution\nI cling to memories while falling\nSleep brings release, and the hope of a new day\nWaking the misery of being without you\nSurrender, I give in\nAnother moment is another eternity\nFor comfort\n(Call me)\nFor solace\n(I'll be waiting)\nFor the end of my broken heart\nCompletion\n(Call me)\nI'll be waiting\n(I'll be waiting)\nFor the end of my broken heart",
+    "lyrics_sentiment_analysis": "pain, longing, heartbreak, hope, emotional healing, desperation"
+  }
+]
