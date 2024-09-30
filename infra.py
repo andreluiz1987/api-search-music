@@ -13,7 +13,7 @@ def create_pipeline_vector():
                     "model_id": "sentence-transformers__all-minilm-l6-v2",
                     "input_output": [
                         {
-                            "input_field": "text_field",
+                            "input_field": "lyrics",
                             "output_field": "lyrics_embedding"
                         },
                         {
@@ -46,7 +46,7 @@ def create_index():
                 "photo_album": {
                     "type": "keyword",
                 },
-                "text_field": {
+                "lyrics": {
                     "type": "text",
                 },
                 "lyrics_sentiment_analysis": {
